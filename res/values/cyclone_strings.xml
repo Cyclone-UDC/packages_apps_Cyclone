@@ -65,4 +65,32 @@
     <string name="lockscreen_battery_info_title">Lock screen charging info</string>
     <string name="lockscreen_battery_info_summary">Display negotiated charger max current and voltage, and battery temperature on lock screen while charging</string>
     
+    <!-- QS tiles layout -->
+    <string name="qs_layout_category_title">QuickSettings</string>
+    <string name="qs_tile_layout_title">QS tiles layout</string>
+    <string name="qs_tile_layout_summary">Customize QuickSettings panel</string>
+    <string name="qs_tiles_layout_category">Tiles layout</string>
+    <string name="qs_rows_portrait_title">Rows (Portrait)</string>
+    <string name="qqs_rows_portrait_title">Rows (Quick QS portrait)</string>
+    <string name="qs_columns_portrait_title">Columns (Portrait)</string>
+    <string name="qs_apply_change_button_title">Apply change</string>
+    <string name="qs_apply_change_failed">Failed to apply change</string>
+    <string name="qs_tile_hide_label_title">Hide labels</string>
+    <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
+    <string name="qs_tile_vertical_layout_title">Vertical layout</string>
+    <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
+    <string name="qs_tile_label_size_title">Label text size</string>
+
+    <!-- QS Transparency -->
+    <string name="qs_transparency_title">QS Background transparency</string>
+    <string name="qs_transparency_summary">Set transparency level for QS background</string>
+
+    <!-- QS footer icons -->
+    <string name="qs_footer_users_icon_title">User account icon</string>
+    <string name="qs_footer_users_icon_summary">Display multiuser accessibility icon when available</string>
+    <string name="qs_footer_edit_icon_title">Edit tiles icon</string>
+    <string name="qs_footer_show_power_menu_title">Power menu shortcut</string>
+    <string name="qs_footer_services_icon_title">Running services shortcut</string>
+    <string name="qs_footer_settings_icon_title">Settings shortcut</string>
+        
 </resources>
