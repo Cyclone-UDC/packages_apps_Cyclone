@@ -46,7 +46,8 @@
     <string name="ambient_display_custom_summary">Ambient display Customisations</string>
     <string name="system_settings_title">System</string>
     <string name="system_settings_summary">System Customisations</string>
-
+    <string name="default_string">Default</string>
+    
     <!-- Font style / Icon pack -->
     <string name="theme_customization_font_title">Font style</string>
     <string name="theme_customization_font_summary">Set system font style</string>
@@ -92,5 +93,20 @@
     <string name="qs_footer_show_power_menu_title">Power menu shortcut</string>
     <string name="qs_footer_services_icon_title">Running services shortcut</string>
     <string name="qs_footer_settings_icon_title">Settings shortcut</string>
+
+    <!-- Quick settings styles -->
+    <string name="qs_styles_title">Quick Settings Styles</string>
+    <string name="qs_ui_title">Quick Settings UI</string>
+    <string name="qs_outline">Outline</string>
+    <string name="qs_two_tone">Two-Tone Accent</string>
+    <string name="qs_color_pop">Color Pop</string>
+    <string name="qs_shaded">Shaded</string>
+    <string name="qs_cyberpunk">Cyberpunk</string>
+    <string name="qs_neumorph">Neomorph</string>
+    <string name="qs_reflected">Reflected</string>
+    <string name="qs_surround">Surround</string>
+    <string name="qs_thin">ThinLine</string>
+    <string name="qs_two_tone_trans">Two-Tone Translucent</string>
+    <string name="android_eleven">Android 11</string>
         
 </resources>
